@@ -3,7 +3,7 @@ CRUD Full Stack de um cadastro de fornecedores, onde o backend é em node, front
 
 ## Funcionamento
 <p align="center">
-  <img width="600" height="500" src="frontend/src/assets/crudRecorded.gif">
+  <img width="800" height="500" src="frontend/src/assets/crudRecorded.gif">
 </p>
 
 ## Link
