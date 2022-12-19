@@ -1,5 +1,7 @@
 # CadastroFornecedores
-Plataforma criada para a área de ITO Control afim de ter um banco de dados mais concreto, assim melhorando a comunicação entre fornecedor e Hitss.
+CRUD Full Stack de um cadastro de fornecedores, onde o backend é em node, frontend em React.JS e o MySQL como banco.
+
+##
 
 ## Link
 A aplicação está tendo uso interno, sem a possibilidade do compartilhamento de dados sigilosos.
